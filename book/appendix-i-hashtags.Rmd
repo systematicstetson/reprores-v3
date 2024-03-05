@@ -1,6 +1,6 @@
 # Twitter Hashtags
 
-In this appendix, we will create a table of the top five hashtags used in conjunction with #NationalComingOutDay, the total number of tweets in each hashtag, the total number of likes, and the top tweet for each hashtag. 
+In this appendix, we will create a table of the top five hashtags used in conjunction with #NationalComingOutDay, the total number of tweets in each hashtag, the total number of likes, and the top tweet for each hashtag.  Adding a sentence to test how to do fork / pull requests. 
 
 ```{r setup-app-g, message=FALSE}
 library(tidyverse)   # data wrangling functions
